@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/5f26f2a9afb16d19aaf12da2
+Content-Type: application/json
+
+{
+    "title": "Username can be changed",
+    "author": "Sargeant Honour",
+    "url": "www.sargeantsbakedgoods.co.uk",
+    "likes": 511
+}

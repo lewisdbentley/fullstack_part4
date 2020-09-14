@@ -1,0 +1,6 @@
+PUT http://localhost:3003/api/users/5f4d1d633e84ae19261437a3
+Content-Type: application/json
+
+{
+    "username": "Elton John"
+}

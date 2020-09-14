@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiU2hhc3Rha292aWNoIiwiaWQiOiI1ZjU0YjJhZTAxNTA2NjFjNWMzZWU0MWYiLCJpYXQiOjE1OTkzODYzMDR9.Pi20UwlS_0AEMLIQGl0hleY-4iGu3baMjnb9BynV25w
+
+{
+    "title": "tokens are decoded in a middleware function successfully",
+    "author": "Gouda Eatorio",
+    "url": "www.breakthemold.com",
+    "likes": 1
+}

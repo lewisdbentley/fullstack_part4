@@ -1,0 +1,6 @@
+
+DELETE http://localhost:3001/api/notes/5f09ae8ecbab7b1b76d339a7/delete
+
+{
+    "id": "5f0df6472c26a816bc70f47c"
+}
